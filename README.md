@@ -2,6 +2,10 @@
 
 This is my own implementation of the paper: https://hal.inria.fr/hal-01482165/document
 
+## Dataset:
+
+Please download the dataset from the link: https://iiitaphyd-my.sharepoint.com/:f:/g/personal/pratikkumar_bulani_alumni_iiit_ac_in/EsyJYpTHMrlHvjq7TV98RVwBjfLs2lymKt0l8-fafL1CPA?e=GrrfXM
+
 ## Outputs:
 
 Please refer to the following playlist on YouTube: https://www.youtube.com/watch?v=f5_knucRr84&list=PL7i-RSp-AiPOifGYIsZS6Mt9WCtFyyvLK
@@ -9,7 +13,9 @@ Please refer to the following playlist on YouTube: https://www.youtube.com/watch
 ## Execution:
 
 ZoomingActors.ipynb is used to generate the output video in the form of camera bounding boxes
+
 SSCCreation.ipynb is used to generate the output video in the form of viewports
+
 Please refer to the output available in the YouTube playlist
 
 ## Citations:
