@@ -13,7 +13,7 @@ SSCCreation.ipynb is used to generate the output video in the form of viewports
 Please refer to the output available in the YouTube playlist
 
 ## Citations:
-
+```
 @article{kumar:hal-01482165,
   TITLE = {{Zooming On All Actors: Automatic Focus+Context Split Screen Video Generation}},
   AUTHOR = {Kumar, Moneish and Gandhi, Vineet and Ronfard, R{\'e}mi and Gleicher, Michael},
@@ -30,3 +30,4 @@ Please refer to the output available in the YouTube playlist
   HAL_ID = {hal-01482165},
   HAL_VERSION = {v1},
 }
+```
