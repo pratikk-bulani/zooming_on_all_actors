@@ -8,7 +8,7 @@ Please download the dataset from the link: https://iiitaphyd-my.sharepoint.com/:
 
 ## Outputs:
 
-Please refer to the following playlist on YouTube: https://www.youtube.com/watch?v=f5_knucRr84&list=PL7i-RSp-AiPOifGYIsZS6Mt9WCtFyyvLK
+Please refer to the following playlist on YouTube: https://www.youtube.com/playlist?list=PL7i-RSp-AiPOifGYIsZS6Mt9WCtFyyvLK
 
 ## Execution:
 
